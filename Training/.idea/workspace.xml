@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Training:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a14f9fd-7695-4ee6-95d5-8d9155283dbe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/out/artifacts/Testing_jar/Training.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing/out/artifacts/Testing_jar/Training.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/out/production/Testing/Block/ConvolutionalBlockC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing/out/production/Testing/Block/ConvolutionalBlockC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/src/Block/ConvolutionalBlockC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Testing/src/Block/ConvolutionalBlockC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/.idea/artifacts/Training_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSpesific/.idea/artifacts/Training_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/.idea/libraries/1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSpesific/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSpesific/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/Training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSpesific/Testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/artifacts/Training_jar/Training.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSpesific/out/artifacts/Training_jar/Training.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/AbstractBlockGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/ConvolutionalBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/ConvolutionalBlockB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/ConvolutionalBlockC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/DenseBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/GGPBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/GGPCustomLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/NeuralNetworkManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/NeuralNetworkManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/NoMaxPoolBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/ResidualBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Block/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/CompetitionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Configuration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/DataStructure/NodeWithWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/DataStructure/TrainIter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/MCTS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/MCTSDeepLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/MainTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/MyAgent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/RandomAgento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/TestUtil/Debug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/TestUtil/StatePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/TesterWithLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/TrainAgent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/TrainManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/Application$CV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/Application$NLP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/Application$Tabular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/BaseModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/Device$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/Device.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/DeviceType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/MalformedModelException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ModelException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/TrainingDivergedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/engine/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/engine/EngineException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/engine/EngineProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/engine/StandardCapabilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/inference/Predictor$PredictorContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/inference/Predictor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/metric/Metric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/metric/Metrics$MetricValueComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/metric/Metrics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/Classifications$Classification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/Classifications$ClassificationsSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/Classifications.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/Output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/BufferedImageFactory$BufferedImageWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/BufferedImageFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/Image$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/Image$Flag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/Image$Interpolation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/ImageFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/MultiBoxDetection$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/MultiBoxDetection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/MultiBoxPrior$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/MultiBoxPrior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/MultiBoxTarget$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/MultiBoxTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/BoundingBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/DetectedObjects$DetectedObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/DetectedObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/Joints$Joint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/Joints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/Landmark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/Mask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/output/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/CenterCrop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/Crop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/Normalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/RandomBrightness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/RandomColorJitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/RandomFlipLeftRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/RandomFlipTopBottom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/RandomHue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/RandomResizedCrop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/Resize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/transform/ToTensor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/BaseImageTranslator$BaseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/BaseImageTranslator$ClassificationBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/BaseImageTranslator$SynsetLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/BaseImageTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/BigGANTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/BigGANTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/ImageClassificationTranslator$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/ImageClassificationTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/ImageClassificationTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/ImageServingTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/InstanceSegmentationTranslator$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/InstanceSegmentationTranslator$ResizeShort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/InstanceSegmentationTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/InstanceSegmentationTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/ObjectDetectionTranslator$ObjectDetectionBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/ObjectDetectionTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/ObjectDetectionTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/SimplePoseTranslator$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/SimplePoseTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/SimplePoseTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/SingleShotDetectionTranslator$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/SingleShotDetectionTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/SingleShotDetectionTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/StyleTransferTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/StyleTransferTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloTranslator$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloV5Translator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloV5Translator$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloV5Translator$IntermediateResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloV5Translator$YoloOutputType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloV5Translator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/YoloV5TranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/wrapper/FileTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/wrapper/InputStreamTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/translator/wrapper/UrlTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/cv/util/NDImageUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/Decoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/DefaultVocabulary$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/DefaultVocabulary$TokenInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/DefaultVocabulary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/Encoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/EncoderDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/NlpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/Vocabulary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/bert/BertFullTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/bert/BertToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/bert/BertTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/bert/WordpieceTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/embedding/EmbeddingException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/embedding/ModelZooTextEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/embedding/SimpleTextEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/embedding/TextEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/embedding/TrainableTextEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/embedding/TrainableWordEmbedding$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/embedding/TrainableWordEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/embedding/WordEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/HyphenNormalizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/LambdaProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/LowerCaseConvertor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/PunctuationSeparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/SimpleTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/TextCleaner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/TextProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/TextTerminator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/TextTruncator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/Tokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/preprocess/UnicodeNormalizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/qa/QAInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/translator/QATranslator$BaseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/translator/QATranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/translator/QaServingTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/translator/SimpleText2TextTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/nlp/translator/TextClassificationServingTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/rl/ActionSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/rl/LruReplayBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/rl/ReplayBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/rl/agent/EpsilonGreedy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/rl/agent/QAgent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/rl/agent/RlAgent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/rl/env/RlEnv$Step.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/modality/rl/env/RlEnv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/BaseNDManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/BaseNDManager$TempResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/BaseNDManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/BytesSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/BytesSupplierImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/LazyNDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDArray$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDArrayAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/NDUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/SparseNDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/NDArrayIndexer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/NDIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/dim/NDIndexAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/dim/NDIndexBooleans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/dim/NDIndexElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/dim/NDIndexFixed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/dim/NDIndexPick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/dim/NDIndexSlice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/full/NDIndexFullPick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/index/full/NDIndexFullSlice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/internal/NDArrayEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/internal/NDFormat$BooleanFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/internal/NDFormat$FloatFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/internal/NDFormat$HexFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/internal/NDFormat$IntFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/internal/NDFormat$StringFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/internal/NDFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/types/DataDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/types/DataType$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/types/DataType$Format.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/types/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/types/LayoutType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/types/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/ndarray/types/SparseFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/AbstractBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/AbstractSymbolBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/Activation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/BlockFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/BlockList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/Blocks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/LambdaBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/ParallelBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/Parameter$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/Parameter$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/Parameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/ParameterList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/SequentialBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/SymbolBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv1d$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv1d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv1dTranspose$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv1dTranspose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv2d$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv2dTranspose$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv2dTranspose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv3d$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Conv3d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Convolution$ConvolutionBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Convolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Deconvolution$DeconvolutionBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/convolutional/Deconvolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/AbstractEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/AbstractIndexedEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/ConstantEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/Embedding$BaseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/Embedding$DefaultEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/Embedding$DefaultItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/Embedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/Linear$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/Linear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/core/Prelu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/norm/BatchNorm$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/norm/BatchNorm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/norm/Dropout$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/norm/Dropout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/norm/LayerNorm$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/norm/LayerNorm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/pooling/Pool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/GRU$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/GRU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/LSTM$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/LSTM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/RNN$Activation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/RNN$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/RNN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/RecurrentBlock$BaseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/recurrent/RecurrentBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/BertBlock$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/BertBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/BertMaskedLanguageModelBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/BertMaskedLanguageModelLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/BertNextSentenceBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/BertNextSentenceLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/BertPretrainingBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/BertPretrainingLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/IdEmbedding$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/IdEmbedding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/MissingOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/PointwiseFeedForwardBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/ScaledDotProductAttentionBlock$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/ScaledDotProductAttentionBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/nn/transformer/TransformerEncoderBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtDeviceType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtEngineProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtGradientCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtNDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtNDArrayEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtNDArrayIndexer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtNDManager$SystemManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtNDManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/engine/PtSymbolBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/jni/IValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/jni/IValueUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/jni/JniUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/jni/LibUtils$LibTorch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/jni/LibUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/pytorch/jni/PyTorchLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/AbstractRepository$ProgressInputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/AbstractRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Artifact$Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Artifact$VersionComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Artifact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/FilenameUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/JarRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/License.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/LocalRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/MRL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Metadata$MatchAllMetadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/RemoteRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/RepositoryFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/RepositoryFactoryImpl$DjlRepositoryFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/RepositoryFactoryImpl$JarRepositoryFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/RepositoryFactoryImpl$LocalRepositoryFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/RepositoryFactoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Restriction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/SimpleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/SimpleUrlRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Version$Comp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/Version.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/VersionRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/BaseModelLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/Criteria$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/DefaultModelZoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/DefaultZooProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/ModelLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/ModelNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/ModelZoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/ZooModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/ZooProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/repository/zoo/ZooProviderNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/DefaultTrainingConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/EasyTrain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/GradientCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/LocalParameterServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/ParameterServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/ParameterStore$ParameterData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/ParameterStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/Trainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/TrainingConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/TrainingResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/ArrayDataset$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/ArrayDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/Batch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/BatchSampler$Iterate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/BatchSampler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/DataIterable$PreFetchCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/DataIterable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/Dataset$Usage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/Dataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/RandomAccessDataset$BaseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/RandomAccessDataset$SubDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/RandomAccessDataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/RandomSampler$Iterate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/RandomSampler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/Sampler$SubSampler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/Sampler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/SequenceSampler$Iterate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/dataset/SequenceSampler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/evaluator/AbstractAccuracy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/evaluator/Accuracy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/evaluator/BinaryAccuracy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/evaluator/BoundingBoxError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/evaluator/Evaluator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/evaluator/IndexEvaluator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/evaluator/SingleShotDetectionAccuracy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/evaluator/TopKAccuracy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/EasyHpo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/optimizer/BaseHpOptimizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/optimizer/HpORandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/optimizer/HpOptimizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/param/HpBool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/param/HpCategorical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/param/HpFloat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/param/HpInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/param/HpSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/param/HpVal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/hyperparameter/param/Hyperparameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/ConstantInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/Initializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/NormalInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/TruncatedNormalInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/UniformInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/XavierInitializer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/XavierInitializer$FactorType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/XavierInitializer$RandomType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/initializer/XavierInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/DivergenceCheckTrainingListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/EpochTrainingListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/EvaluatorTrainingListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/LoggingTrainingListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/MemoryTrainingListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/SaveModelTrainingListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/TimeMeasureTrainingListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/TrainingListener$BatchData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/TrainingListener$Defaults.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/TrainingListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/listener/TrainingListenerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/AbstractCompositeLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/ElasticNetWeightDecay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/HingeLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/IndexLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/L1Loss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/L1WeightDecay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/L2Loss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/L2WeightDecay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/Loss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/MaskedSoftmaxCrossEntropyLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/SigmoidBinaryCrossEntropyLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/SimpleCompositeLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/SingleShotDetectionLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/loss/SoftmaxCrossEntropyLoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Adadelta$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Adadelta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Adagrad$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Adagrad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Adam$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Adam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Nag$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Nag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Optimizer$OptimizerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Optimizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/RmsProp$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/RmsProp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Sgd$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/optimizer/Sgd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/CosineTracker$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/CosineTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/FactorTracker$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/FactorTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/FixedTracker$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/FixedTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/LinearTracker$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/LinearTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/MultiFactorTracker$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/MultiFactorTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/PolynomialDecayTracker$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/PolynomialDecayTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/Tracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/WarmUpTracker$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/WarmUpTracker$Mode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/tracker/WarmUpTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/util/DownloadUtils$ProgressInputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/util/DownloadUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/util/MinMaxScaler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/training/util/ProgressBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/ArgumentsUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/Batchifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/DefaultTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/NDArraySupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/NoBatchifyTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/NoopTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/PaddingStackBatchifier$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/PaddingStackBatchifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/Pipeline$IndexKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/Pipeline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/PostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/PreProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/ServingTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/ServingTranslatorFactory$RawTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/ServingTranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/StackBatchifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/Transform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/TranslateException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/Translator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/TranslatorContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/translate/TranslatorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/ClassLoaderUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/Float16Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/Hex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/JsonSerializable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/JsonUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/NativeResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/PairList$Itr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/PairList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/Platform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/Preconditions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/Progress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/RandomUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/ZipUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/cuda/CudaLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/ai/djl/util/cuda/CudaUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/out/production/Training/customWrapper/MyWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/src/Block/ConvolutionalBlockC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSpesific/src/Block/ConvolutionalBlockC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSpesific/src/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSpesific/src/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Training_jar/Training.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Training_jar/Training.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/Block/ConvolutionalBlockC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/Block/ConvolutionalBlockC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/Block/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/Block/Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/MainTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/MainTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Training/TesterWithLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Training/TesterWithLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Block/ConvolutionalBlockC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block/ConvolutionalBlockC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Block/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesterWithLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesterWithLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/out/artifacts/Training_jar/Training.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/out/artifacts/Training_jar/Training.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Block/ConvolutionalBlockC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Block/ConvolutionalBlockC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Block/NeuralNetworkManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Block/NeuralNetworkManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Block/NeuralNetworkManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Block/NeuralNetworkManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Block/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Block/Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/out/production/Training/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/src/Block/ConvolutionalBlockC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/src/Block/ConvolutionalBlockC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/src/Block/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/src/Block/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainingSpesific/src/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainingSpesific/src/Configuration.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="26Xnbm7WuVDKVdGuD0kbFVsXer3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Block" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Tester">
+    <configuration name="MainTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTester" />
+      <module name="Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Block.Tester" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Block.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterWithLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesterWithLog" />
+      <module name="Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainingManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainingManager" />
+      <module name="Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ludii-1.2.6.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/Ludii-1.2.6.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainTester" />
+      <item itemvalue="Application.TesterWithLog" />
+      <item itemvalue="Application.Tester" />
+      <item itemvalue="Application.TrainingManager" />
+      <item itemvalue="JAR Application.Ludii-1.2.6.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.TrainingManager" />
+        <item itemvalue="Application.TesterWithLog" />
+        <item itemvalue="Application.MainTester" />
+        <item itemvalue="JAR Application.Ludii-1.2.6.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a14f9fd-7695-4ee6-95d5-8d9155283dbe" name="Changes" comment="" />
+      <created>1647411320702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647411320702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

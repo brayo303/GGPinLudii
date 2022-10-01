@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.9">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/.djl.ai/pytorch/1.9.1-cpu-win-x86_64" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
