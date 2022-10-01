@@ -1,7 +1,7 @@
 # GGPinLudii
-This is the source code of undergraduate thesis by Bryan Heryanto titled "Implementasi Agen Self-Play di Ludii" 
+This is the source code of undergraduate thesis by Bryan Heryanto(2022) titled "Implementasi Agen Self-Play di Ludii" 
 or translated in English as "Implementation of Self-Play Agent in Ludii" 
-Parahyangan University about The GGP(General Game Playing AI which can play in [Ludii](https://github.com/Ludeme/Ludii) 1.2.6) using self-play inspired technique.
+a Parahyangan University about The GGP(General Game Playing AI which can play in [Ludii](https://github.com/Ludeme/Ludii) 1.2.6) using self-play inspired technique.
 Created with the help of [DJL (Deep Java Library)](https://github.com/deepjavalibrary/djl) and [JSAT](https://github.com/EdwardRaff/JSAT)
 
 # Dependency
