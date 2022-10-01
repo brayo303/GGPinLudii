@@ -17,4 +17,4 @@ document will be available soon..
 there are a lot of room for improvement
 
 Please contact me to use, modificate, or for the other needs:
-[Bryan Heryanto](bryanheryanto@gmail.com)
+[Bryan Heryanto](mailto:bryanheryanto@gmail.com)
